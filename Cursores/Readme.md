@@ -1,3 +1,39 @@
+# Database Table for Cursors
+
+Este projeto é uma aplicação web interativa que permite a gestão e visualização de dados de cursores em uma tabela dinâmica. Com um design moderno, ele é ideal para explorar conceitos de front-end com HTML, CSS (incluindo TailwindCSS), JavaScript, e manipulação de dados no `localStorage`.
+
+## 🎯 Funcionalidades
+
+- **Seleção e Gerenciamento de Cursores**:
+  - Escolha entre 16 cursores disponíveis.
+  - Atualize informações como nome e imagem.
+
+- **Tabela de Visualização**:
+  - Mostra todos os cursores com suas respectivas informações.
+  - Fotos e descrições atualizadas aparecem dinamicamente na tabela.
+
+- **Interface Responsiva**:
+  - Adaptável para diferentes dispositivos, incluindo desktops e smartphones.
+
+- **Persistência de Dados**:
+  - Os dados são salvos no `localStorage` para manter as informações entre sessões.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estrutura do projeto.
+- **CSS3 e TailwindCSS**: Estilização e design responsivo.
+- **JavaScript**: Lógica do projeto e manipulação do DOM.
+- **Font Awesome**: Ícones.
+- **Google Fonts**: Tipografia com a fonte *Roboto*.
+- **Vídeo de Fundo**: Elemento `video` com integração de um arquivo MP4 para estética.
+
+## 🚀 Como Usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+
+
 <html lang="en">
  <head>
   <meta charset="utf-8"/>
