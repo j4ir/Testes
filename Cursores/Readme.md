@@ -1,3 +1,33 @@
+# Lista de Cursores Personalizados
+
+Este repositório contém uma coleção de cursores personalizados que você pode usar em seu projeto. Abaixo, você encontrará uma tabela com uma lista de cursores, suas descrições e imagens.
+
+## Cursores Disponíveis
+
+| Número | Nome do Cursor      | Link                     | Imagem                          |
+|--------|---------------------|-------------------------------|---------------------------------|
+| 1      | Cursor de mouse pagão1      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 2      | Cursor de mouse pagão2      | https://codepen.io/j4ir/full/bNbVYJg  | ![Cursor de Espera](imagens/cursor_espera.png) |
+| 3      | Cursor de mouse pagão3  | Usado para selecionar texto ou itens. | ![Cursor de Seleção](imagens/cursor_selecao.png) |
+| 4      | Cursor de mouse pagão4       | Usado para indicar links clicáveis. | ![Cursor de Mão](imagens/cursor_mao.png) |
+| 5      | Cursor de mouse pagão5    | Usado para ações específicas. | ![Cursor de Ação](imagens/cursor_acao.png) |
+| 6      | Cursor de mouse pagão6      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 7      | Cursor de mouse pagão7      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 8      | Cursor de mouse pagão8      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 9      | Cursor de mouse simpsons9      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 10      | Cursor de mouse mario10      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 11      | Cursor de mouse sonic11      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 12      | Cursor de mouse kirito12      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 13      | Cursor de mouse naruto13      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 14      | Cursor de mouse sasuke14     | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 15      | Cursor de mouse sakura15      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| 16      | Cursor de mouse hinata16     | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
+
+## Como Usar
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu_usuario/seu_repositorio.git
 # Database Table for Cursors
 
 Este projeto é uma aplicação web interativa que permite a gestão e visualização de dados de cursores em uma tabela dinâmica. Com um design moderno, ele é ideal para explorar conceitos de front-end com HTML, CSS (incluindo TailwindCSS), JavaScript, e manipulação de dados no `localStorage`.
@@ -42,79 +72,3 @@ Este projeto é uma aplicação web interativa que permite a gestão e visualiza
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
     <div class="md:w-1/2 p-4">
      <h1 class="text-2xl font-bold mb-4">
-      Database Table
-     </h1>
-     <div id="table-container">
-      <div class="overflow-x-auto">
-       <table class="min-w-full bg-white border border-gray-200">
-        <thead class="bg-gray-800 text-white">
-         <tr>
-          <th class="py-2 px-4 border-b">
-           ID
-          </th>
-          <th class="py-2 px-4 border-b">
-           Name
-          </th>
-          <th class="py-2 px-4 border-b">
-           Email
-          </th>
-          <th class="py-2 px-4 border-b">
-           Photo
-          </th>
-          <th class="py-2 px-4 border-b">
-           Description
-          </th>
-         </tr>
-        </thead>
-        <tbody>
-         <tr>
-          <td class="py-2 px-4 border-b text-black">
-           1
-          </td>
-          <td class="py-2 px-4 border-b text-black">
-           Cursor 1
-          </td>
-          <td class="py-2 px-4 border-b text-black">
-           cursor1@example.com
-          </td>
-          <td class="py-2 px-4 border-b">
-           <img alt="Foto do cursor 1" class="w-12 h-12 object-cover rounded-full" height="150" src="https://storage.googleapis.com/a1aa/image/LijSfCVxALXcAaoJRzmGdnhHcLhqbFLrSG7WDOfWefceQbhfE.jpg" width="150"/>
-          </td>
-          <td class="py-2 px-4 border-b text-black">
-           Descrição fixa: Este é o cursor 1, um exemplo de projeto de cursor.
-          </td>
-         </tr>
-         <tr>
-          <td class="py-2 px-4 border-b text-black">
-           2
-          </td>
-          <td class="py-2 px-4 border-b text-black">
-           Cursor 2
-          </td>
-          <td class="py-2 px-4 border-b text-black">
-           cursor2@example.com
-          </td>
-          <td class="py-2 px-4 border-b">
-           <img alt="Foto do cursor 2" class="w-12 h-12 object-cover rounded-full" height="150" src="https://storage.googleapis.com/a1aa/image/fEotfDLUUFqxyk041zMLgrLf4gV6Ma1dUVdYG1mjdKnW0W4nA.jpg" width="150"/>
-          </td>
-          <td class="py-2 px-4 border-b text-black">
-           Descrição fixa: Este é o cursor 2, um exemplo de projeto de cursor.
-          </td>
-         </tr>
-         <tr>
-          <td class="py-2 px-4 border-b text-black">
-           3
-          </td>
-          <td class="py-2 px-4 border-b text-black">
-           Cursor 3
-          </td>
-          <td class="py-2 px-4 border-b text-black">
-           cursor3@example.com
-          </td>
-          <td class="py-2 px-4 border-b">
-           <img alt="Foto do cursor 3" class="w-12 h-12 object-cover rounded-full" height="150" src="https://storage.googleapis.com/a1aa/image/nfMvI68ZXByMEidK1eKwNgRoSD3fn9qPDcgUAzKPQRAJ0W4nA.jpg" width="150"/>
-          </td>
-          <td class="py-2 px-4 border-b text-black">
-           Descrição fixa: Este é o cursor 3, um exemplo de projeto de cursor.
-          </td>
-         </
