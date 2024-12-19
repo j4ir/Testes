@@ -4,17 +4,17 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 
 ## Cursores Disponíveis
 
-| Número | Nome do Cursor      | Link                          | Imagem                          |
-|--------|---------------------|-------------------------------|---------------------------------|
-| 1      | Cursor de mouse pagão1      | https://codepen.io/j4ir/full/OPLyOwy  | ![Cursor Padrão](imagens/cursor_padrao.png) |
-| 2      | Cursor de mouse pagão2      | https://codepen.io/j4ir/full/bNbVYJg  | ![Cursor de Espera](imagens/cursor_espera.png) |
-| 3      | Cursor de mouse pagão3      | https://codepen.io/j4ir/full/VYZvywZ  | ![Cursor de Seleção](imagens/cursor_selecao.png) |
-| 4      | Cursor de mouse pagão4      | https://codepen.io/j4ir/full/YPKyYzz  | ![Cursor de Mão](imagens/cursor_mao.png) |
-| 5      | Cursor de mouse pagão5      | https://codepen.io/j4ir/full/wBwKyzY  | ![Cursor de Ação](imagens/cursor_acao.png) |
-| 6      | Cursor de mouse pagão6      | https://codepen.io/j4ir/full/WbeQLrE  | ![Cursor Padrão](imagens/cursor_padrao.png) |
-| 7      | Cursor de mouse pagão7      |   | ![Cursor Padrão](imagens/cursor_padrao.png) |
-| 8      | Cursor de mouse pagão8      |   | ![Cursor Padrão](imagens/cursor_padrao.png) |
-| 9      | Cursor de mouse simpsons9   |   | ![Cursor Padrão](imagens/cursor_padrao.png) |
+| Número | Nome do Cursor      | Link                                          | Imagem                          |
+|--------|---------------------|-----------------------------------------------|---------------------------------|
+| 1      | Cursor de mouse pagão1      | https://codepen.io/j4ir/full/OPLyOwy  | imagens/cursor_padrao.png)      |
+| 2      | Cursor de mouse pagão2      | https://codepen.io/j4ir/full/bNbVYJg  | imagens/cursor_espera.png)      |
+| 3      | Cursor de mouse pagão3      | https://codepen.io/j4ir/full/VYZvywZ  | imagens/cursor_selecao.png)     |
+| 4      | Cursor de mouse pagão4      | https://codepen.io/j4ir/full/YPKyYzz  | imagens/cursor_mao.png)         |
+| 5      | Cursor de mouse pagão5      | https://codepen.io/j4ir/full/wBwKyzY  | imagens/cursor_acao.png)        |
+| 6      | Cursor de mouse pagão6      | https://codepen.io/j4ir/full/WbeQLrE  | imagens/cursor_padrao.png)      |
+| 7      | Cursor de mouse pagão7      | https://codepen.io/j4ir/full/EaYVBmo  | imagens/cursor_padrao.png)      |
+| 8      | Cursor de mouse pagão8      | https://codepen.io/j4ir/full/qEWbBKM  | imagens/cursor_padrao.png)      |
+| 9      | Cursor de mouse simpsons9   | https://codepen.io/j4ir/full/yyBeygK  | imagens/cursor_padrao.png)      |
 | 10      | Cursor de mouse mario10    |   | ![Cursor Padrão](imagens/cursor_padrao.png) |
 | 11      | Cursor de mouse sonic11    |   | ![Cursor Padrão](imagens/cursor_padrao.png) |
 | 12      | Cursor de mouse kirito12   |   | ![Cursor Padrão](imagens/cursor_padrao.png) |
