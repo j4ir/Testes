@@ -2,6 +2,8 @@
 
 Este repositório contém uma coleção de cursores personalizados que você pode usar em seu projeto. Abaixo, você encontrará uma tabela com uma lista de cursores, suas descrições e imagens. Eu criei esse projeto com intuito de treinar html,css e java.
 
+Link para o album com todos os cursores: https://codepen.io/collection/ojvmMb
+
 ## Cursores Disponíveis
 
 | Número | Nome do Cursor      | Link                                          | Imagem                          |
