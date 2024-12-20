@@ -1,8 +1,8 @@
-# Lista de Cursores Personalizados
+## 🖱️ Lista de Cursores Personalizados
 
 Este repositório contém uma coleção de cursores personalizados que você pode usar em seu projeto. Abaixo, você encontrará uma tabela com uma lista de cursores, suas descrições e imagens. Eu criei esse projeto com intuito de treinar html,css e java.
 
-Link para o album com todos os cursores: https://codepen.io/collection/ojvmMb
+🔗 Link para o albúm com todos os cursores: https://codepen.io/collection/ojvmMb
 
 ## Cursores Disponíveis
 
@@ -25,7 +25,7 @@ Link para o album com todos os cursores: https://codepen.io/collection/ojvmMb
 | 15      | Cursor de mouse sakura15   | https://codepen.io/j4ir/full/bNbggbW  | imagens/cursor_padrao.png)      |
 | 16      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | imagens/cursor_padrao.png)      |
 
-Caracteristicas   
+## ⚙️ Caracteristicas   
 - **Interface Responsiva** (Adaptável para diferentes dispositivos, incluindo desktops e smartphones)
 
 ## 🛠️ Tecnologias Utilizadas
@@ -52,3 +52,18 @@ Caracteristicas
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
     <div class="md:w-1/2 p-4">
      <h1 class="text-2xl font-bold mb-4">
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>     
