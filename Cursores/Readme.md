@@ -25,30 +25,8 @@ Link para o album com todos os cursores: https://codepen.io/collection/ojvmMb
 | 15      | Cursor de mouse sakura15   | https://codepen.io/j4ir/full/bNbggbW  | imagens/cursor_padrao.png)      |
 | 16      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | imagens/cursor_padrao.png)      |
 
-## Como Usar
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
-# Database Table for Cursors
-
-Este projeto é uma aplicação web interativa que permite a gestão e visualização de dados de cursores em uma tabela dinâmica. Com um design moderno, ele é ideal para explorar conceitos de front-end com HTML, CSS (incluindo TailwindCSS), JavaScript, e manipulação de dados no `localStorage`.
-
-## 🎯 Funcionalidades
-
-- **Seleção e Gerenciamento de Cursores**:
-  - Escolha entre 16 cursores disponíveis.
-  - Atualize informações como nome e imagem.
-
-- **Tabela de Visualização**:
-  - Mostra todos os cursores com suas respectivas informações.
-  - Fotos e descrições atualizadas aparecem dinamicamente na tabela.
-
-- **Interface Responsiva**:
-  - Adaptável para diferentes dispositivos, incluindo desktops e smartphones.
-
-- **Persistência de Dados**:
-  - Os dados são salvos no `localStorage` para manter as informações entre sessões.
+Caracteristicas   
+- **Interface Responsiva** (Adaptável para diferentes dispositivos, incluindo desktops e smartphones)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -57,7 +35,7 @@ Este projeto é uma aplicação web interativa que permite a gestão e visualiza
 - **JavaScript**: Lógica do projeto e manipulação do DOM.
 - **Font Awesome**: Ícones.
 - **Google Fonts**: Tipografia com a fonte *Roboto*.
-- **Vídeo de Fundo**: Elemento `video` com integração de um arquivo MP4 para estética.
+- **Vídeo de Fundo**: Elemento `video` com integração de um arquivo MP4 para estética e wallpapers.
 
 ## 🚀 Como Usar
 
