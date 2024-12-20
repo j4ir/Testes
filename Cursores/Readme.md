@@ -8,7 +8,7 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 
 | Número | Nome do Cursor      | Link                                          | Imagem                          |
 |--------|---------------------|-----------------------------------------------|---------------------------------|
-| 1      | Cursor de mouse pagão1      | https://codepen.io/j4ir/full/OPLyOwy  | imagens/cursor_padrao.png)      |
+| 1      | Cursor de mouse pagão1      | https://j4ir/full/OPLyOwy  | imagens/cursor_padrao.png)      |
 | 2      | Cursor de mouse pagão2      | https://codepen.io/j4ir/full/bNbVYJg  | imagens/cursor_espera.png)      |
 | 3      | Cursor de mouse pagão3      | https://codepen.io/j4ir/full/VYZvywZ  | imagens/cursor_selecao.png)     |
 | 4      | Cursor de mouse pagão4      | https://codepen.io/j4ir/full/YPKyYzz  | imagens/cursor_mao.png)         |
@@ -39,10 +39,12 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 
 ## 🚀 Como Usar
 
-1. Clone este repositório:
+1. Abra o projeto open source no link do site codepen.io:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-
+   link https://j4ir/full/..
+2. Você pode visualizar o repósitorio de projetos open source no link:
+   ```bash
+   link https://codepen.io/collection/ojvmMb
 
 <html lang="en">
  <head>
