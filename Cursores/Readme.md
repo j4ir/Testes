@@ -26,6 +26,8 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 | 16      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | imagens/cursor_padrao.png)      |
 
 ## ⚙️ Caracteristicas   
+- **Cursores temáticos** (cursores personalizados)
+- **Websites temáticos** (websites personalizados seguindo o tema proposto no cursor)
 - **Interface Responsiva** (Adaptável para diferentes dispositivos, incluindo desktops e smartphones)
 
 ## 🛠️ Tecnologias Utilizadas
