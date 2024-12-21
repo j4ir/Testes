@@ -2,9 +2,9 @@
 
 Este repositório contém uma coleção de cursores personalizados que você pode usar em seu projeto. Abaixo, você encontrará uma tabela com uma lista de cursores, suas descrições e imagens. Eu criei esse projeto com intuito de treinar html,css e java.
 
-🔗 Link para a biblioteca com todos os projetos de cursores (código aberto): https://codepen.io/collection/ojvmMb -
-🔗 Link para a playlist com todos os videos dos cursores (apresentações de viddeos): https://www.youtube.com/playlist?list=PLtllBXkGisn0cv5cT0QYpyRDNTacfWrmb -
-🔗 Link para a galeria com todos as paginas web criadas (paginas web para testar os cursores):
+1<br>🔗 Link para a biblioteca com todos os projetos de cursores (código aberto): https://codepen.io/collection/ojvmMb</br>
+2<br>🔗 Link para a playlist com todos os videos dos cursores (apresentações de videos): https://www.youtube.com/playlist?list=PLtllBXkGisn0cv5cT0QYpyRDNTacfWrmb</br>
+3<br>🔗 Link para a galeria com todos as paginas web criadas (paginas web para testar os cursores):</br>
 
 ## Cursores Disponíveis
 
