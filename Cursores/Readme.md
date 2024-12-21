@@ -10,20 +10,20 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 |--------|---------------------|-----------------------------------------------|---------------------------------|
 | 1      | Cursor de mouse pagão1      | https://codepen.io/j4ir/full/OPLyOwy  | <img src="https://i.imgur.com/58p9VOO.jpeg">|
 | 2      | Cursor de mouse pagão2      | https://codepen.io/j4ir/full/bNbVYJg  | <img src="https://i.imgur.com/t8uZNOg.jpeg">|
-| 3      | Cursor de mouse pagão3      | https://codepen.io/j4ir/full/VYZvywZ  | imagens/cursor_selecao.png)     |
-| 4      | Cursor de mouse pagão4      | https://codepen.io/j4ir/full/YPKyYzz  | imagens/cursor_mao.png)         |
-| 5      | Cursor de mouse pagão5      | https://codepen.io/j4ir/full/wBwKyzY  | imagens/cursor_acao.png)        |
-| 6      | Cursor de mouse pagão6      | https://codepen.io/j4ir/full/WbeQLrE  | imagens/cursor_padrao.png)      |
-| 7      | Cursor de mouse pagão7      | https://codepen.io/j4ir/full/EaYVBmo  | imagens/cursor_padrao.png)      |
-| 8      | Cursor de mouse pagão8      | https://codepen.io/j4ir/full/qEWbBKM  | imagens/cursor_padrao.png)      |
-| 9      | Cursor de mouse simpsons9   | https://codepen.io/j4ir/full/yyBeygK  | imagens/cursor_padrao.png)      |
-| 10      | Cursor de mouse mario10    | https://codepen.io/j4ir/full/azodwmL  | imagens/cursor_padrao.png)      |
-| 11      | Cursor de mouse sonic11    | https://codepen.io/j4ir/full/MYgKQmd  | imagens/cursor_padrao.png)      |
-| 12      | Cursor de mouse kirito12   | https://codepen.io/j4ir/full/qEWbxLm  | imagens/cursor_padrao.png)      |
-| 13      | Cursor de mouse naruto13   | https://codepen.io/j4ir/full/GgKNBgN  | imagens/cursor_padrao.png)      |
-| 14      | Cursor de mouse sasuke14   | https://codepen.io/j4ir/full/jENyNaB  | imagens/cursor_padrao.png)      |
-| 15      | Cursor de mouse sakura15   | https://codepen.io/j4ir/full/bNbggbW  | imagens/cursor_padrao.png)      |
-| 16      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | imagens/cursor_padrao.png)      |
+| 3      | Cursor de mouse pagão3      | https://codepen.io/j4ir/full/VYZvywZ  | <img src="https://i.imgur.com/dciQ0PY.jpeg">|
+| 4      | Cursor de mouse pagão4      | https://codepen.io/j4ir/full/YPKyYzz  | <img src="">     |
+| 5      | Cursor de mouse pagão5      | https://codepen.io/j4ir/full/wBwKyzY  | <img src="">     |
+| 6      | Cursor de mouse pagão6      | https://codepen.io/j4ir/full/WbeQLrE  | <img src="">     |
+| 7      | Cursor de mouse pagão7      | https://codepen.io/j4ir/full/EaYVBmo  | <img src="">     |
+| 8      | Cursor de mouse pagão8      | https://codepen.io/j4ir/full/qEWbBKM  | <img src="">      |
+| 9      | Cursor de mouse simpsons9   | https://codepen.io/j4ir/full/yyBeygK  | <img src="">      |
+| 10      | Cursor de mouse mario10    | https://codepen.io/j4ir/full/azodwmL  | <img src="">      |
+| 11      | Cursor de mouse sonic11    | https://codepen.io/j4ir/full/MYgKQmd  | <img src="">      |
+| 12      | Cursor de mouse kirito12   | https://codepen.io/j4ir/full/qEWbxLm  | <img src="">       |
+| 13      | Cursor de mouse naruto13   | https://codepen.io/j4ir/full/GgKNBgN  | <img src="">       |
+| 14      | Cursor de mouse sasuke14   | https://codepen.io/j4ir/full/jENyNaB  | <img src="">      |
+| 15      | Cursor de mouse sakura15   | https://codepen.io/j4ir/full/bNbggbW  | <img src="">      |
+| 16      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | <img src="">      |
 
 ## ⚙️ Caracteristicas   
 - **Cursores temáticos** (cursores personalizados)
