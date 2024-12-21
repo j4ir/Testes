@@ -10,13 +10,13 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 |--------|-----------------------------|---------------------------------------|---------------------------------------------|--------------------------------------------------|
 | 1      | Cursor de mouse pagão1      | https://codepen.io/j4ir/full/OPLyOwy  | <img src="https://i.imgur.com/58p9VOO.jpeg">| https://youtube.com/shorts/LlliV_dVkJg           |
 | 2      | Cursor de mouse pagão2      | https://codepen.io/j4ir/full/bNbVYJg  | <img src="https://i.imgur.com/t8uZNOg.jpeg">| https://youtube.com/shorts/KddHpOdQKcE           |
-| 3      | Cursor de mouse pagão3      | https://codepen.io/j4ir/full/VYZvywZ  | <img src="https://i.imgur.com/1GgUoSY.jpeg">| https://youtube.com/shorts/LfJirmzGSi8
-| 4      | Cursor de mouse pagão4      | https://codepen.io/j4ir/full/YPKyYzz  | <img src="https://i.imgur.com/dciQ0PY.jpeg">| https://youtube.com/shorts/pvAKd294n04
-| 5      | Cursor de mouse pagão5      | https://codepen.io/j4ir/full/wBwKyzY  | <img src="https://i.imgur.com/OsjSnYK.jpeg">| https://youtube.com/shorts/TxLGREq_1do
-| 6      | Cursor de mouse pagão6      | https://codepen.io/j4ir/full/WbeQLrE  | <img src="https://i.imgur.com/1zt1wI2.jpeg">| https://youtube.com/shorts/PW8-XmJ6LDw
-| 7      | Cursor de mouse pagão7      | https://codepen.io/j4ir/full/EaYVBmo  | <img src="https://i.imgur.com/mm60ZNe.jpeg">| https://youtube.com/shorts/gpacxigxDAk
-| 8      | Cursor de mouse pagão8      | https://codepen.io/j4ir/full/qEWbBKM  | <img src="https://i.imgur.com/R87WRRJ.jpeg">| https://youtube.com/shorts/nPXVwUAcWXI
-| 9      | Cursor de mouse simpsons9   | https://codepen.io/j4ir/full/yyBeygK  | <img src="">      |
+| 3      | Cursor de mouse pagão3      | https://codepen.io/j4ir/full/VYZvywZ  | <img src="https://i.imgur.com/1GgUoSY.jpeg">| https://youtube.com/shorts/LfJirmzGSi8           |
+| 4      | Cursor de mouse pagão4      | https://codepen.io/j4ir/full/YPKyYzz  | <img src="https://i.imgur.com/dciQ0PY.jpeg">| https://youtube.com/shorts/pvAKd294n04           |
+| 5      | Cursor de mouse pagão5      | https://codepen.io/j4ir/full/wBwKyzY  | <img src="https://i.imgur.com/OsjSnYK.jpeg">| https://youtube.com/shorts/TxLGREq_1do           |
+| 6      | Cursor de mouse pagão6      | https://codepen.io/j4ir/full/WbeQLrE  | <img src="https://i.imgur.com/1zt1wI2.jpeg">| https://youtube.com/shorts/PW8-XmJ6LDw           |
+| 7      | Cursor de mouse pagão7      | https://codepen.io/j4ir/full/EaYVBmo  | <img src="https://i.imgur.com/mm60ZNe.jpeg">| https://youtube.com/shorts/gpacxigxDAk           |
+| 8      | Cursor de mouse pagão8      | https://codepen.io/j4ir/full/qEWbBKM  | <img src="https://i.imgur.com/R87WRRJ.jpeg">| https://youtube.com/shorts/nPXVwUAcWXI           |
+| 9      | Cursor de mouse simpsons9   | https://codepen.io/j4ir/full/yyBeygK  | <img src="https://i.imgur.com/r88jpBy.png"> | https://youtube.com/shorts/B1a84stishg           |
 | 10      | Cursor de mouse mario10    | https://codepen.io/j4ir/full/azodwmL  | <img src="">      |
 | 11      | Cursor de mouse sonic11    | https://codepen.io/j4ir/full/MYgKQmd  | <img src="">      |
 | 12      | Cursor de mouse kirito12   | https://codepen.io/j4ir/full/qEWbxLm  | <img src="">       |
