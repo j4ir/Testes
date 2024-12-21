@@ -24,8 +24,8 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 | 12      | Cursor de mouse kirito12   | https://codepen.io/j4ir/full/qEWbxLm  | <img src="https://i.imgur.com/4fML4FP.jpeg">| https://youtube.com/shorts/gv709uDfRnk           |
 | 13      | Cursor de mouse naruto13   | https://codepen.io/j4ir/full/GgKNBgN  | <img src="https://i.imgur.com/hT2L8ym.jpeg">| https://youtube.com/shorts/VdIv_WL8aM4           |
 | 14      | Cursor de mouse sasuke14   | https://codepen.io/j4ir/full/jENyNaB  | <img src="https://i.imgur.com/obbNK42.png"> | https://youtube.com/shorts/LNJvXp78PTQ           |
-| 15      | Cursor de mouse sakura15   | https://codepen.io/j4ir/full/bNbggbW  | <img src="">      |
-| 16      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | <img src="">      |
+| 15      | Cursor de mouse sakura15   | https://codepen.io/j4ir/full/bNbggbW  | <img src="https://i.imgur.com/6TFYPP0.png"> | https://youtube.com/shorts/r715xxJhAFM           |
+| 16      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | <img src="https://i.imgur.com/Uvt7ovC.png"> | https://youtube.com/shorts/QcvdnGSoTLQ           |
 | 17      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | <img src="">      |
 | 18      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | <img src="">      |
 | 19      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | <img src="">      |
