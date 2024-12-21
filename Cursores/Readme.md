@@ -4,7 +4,7 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 
 1<br>🔗 Link para a biblioteca com todos os projetos de cursores (código aberto): https://codepen.io/collection/ojvmMb</br>
 2<br>🔗 Link para a playlist com todos os videos dos cursores (apresentações de videos): https://www.youtube.com/playlist?list=PLtllBXkGisn0cv5cT0QYpyRDNTacfWrmb</br>
-3<br>🔗 Link para a galeria com todos as paginas web criadas (paginas web para testar os cursores):</br>
+3<br>🔗 Link para a galeria com todos as paginas web criadas para testar os cursores (apresentação de imagens):</br>
 
 ## Cursores Disponíveis
 
