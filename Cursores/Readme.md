@@ -17,7 +17,7 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 | 7      | Cursor de mouse pagão7      | https://codepen.io/j4ir/full/EaYVBmo  | <img src="https://i.imgur.com/mm60ZNe.jpeg">| https://youtube.com/shorts/gpacxigxDAk           |
 | 8      | Cursor de mouse pagão8      | https://codepen.io/j4ir/full/qEWbBKM  | <img src="https://i.imgur.com/R87WRRJ.jpeg">| https://youtube.com/shorts/nPXVwUAcWXI           |
 | 9      | Cursor de mouse simpsons9   | https://codepen.io/j4ir/full/yyBeygK  | <img src="https://i.imgur.com/r88jpBy.png"> | https://youtube.com/shorts/B1a84stishg           |
-| 10      | Cursor de mouse mario10    | https://codepen.io/j4ir/full/azodwmL  | <img src="">      |
+| 10      | Cursor de mouse mario10    | https://codepen.io/j4ir/full/azodwmL  | <img src="https://i.imgur.com/ttLziVZ.png"> | https://youtube.com/shorts/E1DsK1Xg5uE           |
 | 11      | Cursor de mouse sonic11    | https://codepen.io/j4ir/full/MYgKQmd  | <img src="">      |
 | 12      | Cursor de mouse kirito12   | https://codepen.io/j4ir/full/qEWbxLm  | <img src="">       |
 | 13      | Cursor de mouse naruto13   | https://codepen.io/j4ir/full/GgKNBgN  | <img src="">       |
