@@ -2,7 +2,9 @@
 
 Este repositório contém uma coleção de cursores personalizados que você pode usar em seu projeto. Abaixo, você encontrará uma tabela com uma lista de cursores, suas descrições e imagens. Eu criei esse projeto com intuito de treinar html,css e java.
 
-🔗 Link para o albúm com todos os cursores: https://codepen.io/collection/ojvmMb
+🔗 Link para a biblioteca com todos os projetos de cursores (código aberto): https://codepen.io/collection/ojvmMb
+🔗 Link para a playlist com todos os videos dos cursores (apresentações de viddeos): https://www.youtube.com/playlist?list=PLtllBXkGisn0cv5cT0QYpyRDNTacfWrmb
+🔗 Link para a galeria com todos as paginas web criadas (paginas web para testar os cursores):
 
 ## Cursores Disponíveis
 
@@ -21,7 +23,7 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 | 11      | Cursor de mouse sonic11    | https://codepen.io/j4ir/full/MYgKQmd  | <img src="https://i.imgur.com/epdyeU3.png"> | https://youtube.com/shorts/qsWNX7njFu4           |
 | 12      | Cursor de mouse kirito12   | https://codepen.io/j4ir/full/qEWbxLm  | <img src="https://i.imgur.com/4fML4FP.jpeg">| https://youtube.com/shorts/gv709uDfRnk           |
 | 13      | Cursor de mouse naruto13   | https://codepen.io/j4ir/full/GgKNBgN  | <img src="https://i.imgur.com/hT2L8ym.jpeg">| https://youtube.com/shorts/VdIv_WL8aM4           |
-| 14      | Cursor de mouse sasuke14   | https://codepen.io/j4ir/full/jENyNaB  | <img src="">      |
+| 14      | Cursor de mouse sasuke14   | https://codepen.io/j4ir/full/jENyNaB  | <img src="https://i.imgur.com/obbNK42.png"> | https://youtube.com/shorts/LNJvXp78PTQ           |
 | 15      | Cursor de mouse sakura15   | https://codepen.io/j4ir/full/bNbggbW  | <img src="">      |
 | 16      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | <img src="">      |
 | 17      | Cursor de mouse hinata16   | https://codepen.io/j4ir/full/KwPaWaj  | <img src="">      |
