@@ -11,7 +11,7 @@ Este repositório contém uma coleção de cursores personalizados que você pod
 | 1      | Cursor de mouse pagão1      | https://codepen.io/j4ir/full/OPLyOwy  | <img src="https://i.imgur.com/58p9VOO.jpeg">|
 | 2      | Cursor de mouse pagão2      | https://codepen.io/j4ir/full/bNbVYJg  | <img src="https://i.imgur.com/t8uZNOg.jpeg">|
 | 3      | Cursor de mouse pagão3      | https://codepen.io/j4ir/full/VYZvywZ  | <img src="https://i.imgur.com/dciQ0PY.jpeg">|
-| 4      | Cursor de mouse pagão4      | https://codepen.io/j4ir/full/YPKyYzz  | <img src="">     |
+| 4      | Cursor de mouse pagão4      | https://codepen.io/j4ir/full/YPKyYzz  | <img src="https://i.imgur.com/dciQ0PY.jpeg">|
 | 5      | Cursor de mouse pagão5      | https://codepen.io/j4ir/full/wBwKyzY  | <img src="">     |
 | 6      | Cursor de mouse pagão6      | https://codepen.io/j4ir/full/WbeQLrE  | <img src="">     |
 | 7      | Cursor de mouse pagão7      | https://codepen.io/j4ir/full/EaYVBmo  | <img src="">     |
